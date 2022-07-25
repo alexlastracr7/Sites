@@ -15,7 +15,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/lib/internal/Magento/Framework" isTestSource="false" packagePrefix="Magento\Framework\" />
       <sourceFolder url="file://$MODULE_DIR$/src/setup/src/Magento/Setup" isTestSource="false" packagePrefix="Magento\Setup\" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/magento/module-inventory-grouped-product" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/magento/module-login-as-customer-graph-ql" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/magento/module-checkout-agreements-graph-ql" />
